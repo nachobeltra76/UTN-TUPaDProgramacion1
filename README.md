@@ -1,3 +1,3 @@
 # UTN-TUPaDProgramacion1
-Repositorio creado para el TP Nº2 de Programacion I
+Repositorio creado para organizar todos mis trabajos practicos de la cursada de Programacion I 
 
