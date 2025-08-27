@@ -4,9 +4,9 @@ import datetime
 
 
 #EJERCICIO 1 
-edad_usuario = int(input("ingrese su edad: "))
-if edad_usuario >= 18:
-    print("Es mayor de edad")
+#edad_usuario = int(input("ingrese su edad: "))
+#if edad_usuario >= 18:
+#    print("Es mayor de edad")
 
 
 #EJERCICIO 2 
